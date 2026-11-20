@@ -8,3 +8,8 @@ Downloads for Homeschool Helper, a K–7 practice app for homeschool families.
 - **Windows:** download and run the `setup.exe`. If Windows shows "Windows protected your PC", click **More info → Run anyway**.
 
 Once it's installed, the app checks here for new versions. A parent can install them from 🔒 Parent → App updates.
+
+## Help and privacy
+
+- Questions or problems: [open an issue](https://github.com/4realIA/homeschool-helper-releases/issues).
+- [Privacy policy](PRIVACY.md): everything stays on your device.
