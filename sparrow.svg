@@ -1,0 +1,14 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" width="96" height="96" role="img" aria-label="A sparrow">
+      <path d="M10 40 L2 50 L16 46 Z" fill="#7a5532" />
+      <ellipse cx="28" cy="38" rx="20" ry="14" fill="#a8743f" />
+      <path d="M16 42 Q28 56 44 42 Q30 48 16 42 Z" fill="#f3e2c3" />
+      <path d="M18 34 Q30 24 40 36 Q30 42 18 34 Z" fill="#7a5532" />
+      <path d="M22 35 Q30 30 36 36" stroke="#f3e2c3" stroke-width="1.5" fill="none" stroke-linecap="round" />
+      <circle cx="46" cy="26" r="11" fill="#a8743f" />
+      <path d="M38 22 Q46 12 55 20 Q47 18 38 22 Z" fill="#7a5532" />
+      <path d="M40 31 Q47 37 54 30 Q47 33 40 31 Z" fill="#f3e2c3" />
+      <circle cx="49" cy="24" r="2.2" fill="#2b2a28" />
+      <circle cx="49.8" cy="23.2" r="0.7" fill="#fff" />
+      <path d="M56 25 L63 27 L56 29 Z" fill="#f2c94c" />
+      <path d="M26 51 L24 58 M32 51 L33 58" stroke="#c9a227" stroke-width="2" stroke-linecap="round" />
+    </svg>

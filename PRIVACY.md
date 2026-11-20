@@ -1,8 +1,8 @@
-# Homeschool Helper privacy policy
+# Sparrow Schoolhouse privacy policy
 
-Last updated: November 19, 2026
+Last updated: November 20, 2026
 
-Homeschool Helper is a practice app for homeschool families, published by Dmd-Dev. It was built so that a family's information stays in the family's home.
+Sparrow Schoolhouse is a practice app for homeschool families, published by Dmd-Dev. It was built so that a family's information stays in the family's home.
 
 ## What the app keeps
 
@@ -17,7 +17,7 @@ There are no accounts, no sign-in, no email addresses and no payment details.
 
 ## What the app sends
 
-Nothing. Homeschool Helper does not collect, upload, sell or share any information. It has no analytics, no advertising, no tracking and no third-party services.
+Nothing. Sparrow Schoolhouse does not collect, upload, sell or share any information. It has no analytics, no advertising, no tracking and no third-party services.
 
 - The **Microsoft Store** copy of the app makes no network connections. The Store installs its updates.
 - The copy downloaded from this page checks this page for new versions. That check downloads a small version file and sends nothing about the family or the children.
@@ -31,7 +31,7 @@ The app is meant to be set up by a parent and used by children with a parent's o
 
 ## Removing information
 
-A parent can delete a child and all of that child's progress in 🔒 Parent → Children. Uninstalling the Microsoft Store copy removes its data from the device; the uninstaller for the downloaded copy offers to remove it.
+A parent can remove a child in 🔒 Parent → Children. That hides the child; their progress stays on the device. Uninstalling the Microsoft Store copy removes its data from the device; the uninstaller for the downloaded copy offers to remove it.
 
 ## Changes
 
